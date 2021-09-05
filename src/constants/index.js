@@ -1,0 +1,3 @@
+export const SET_COCKPIT_DATA = 'SET_COCKPIT_DATA';
+
+export const MAX_PAGINATION_LIMIT = 110;

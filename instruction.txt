@@ -1,0 +1,4 @@
+Steps to run the code:
+
+1. In the project directory open cmd and type npm install
+2. After step 1 completes type npm start
